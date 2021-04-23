@@ -1,0 +1,1 @@
+﻿This project is a restful API (very unpolished) used to demonstrate how to successfully serialize and deserialize JSON objects. It is not intended to represent a complete example of a Restful API.
